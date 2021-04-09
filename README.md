@@ -26,7 +26,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:8080/`
 
 ## :robot: Tecnologias
 - HTML
-- CSS
+- SCSS
 - Typescript
 
 
