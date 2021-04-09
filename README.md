@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Ignite" src="https://imgur.com/rHXPruO.png"
+    <img alt="Ignite" src="https://imgur.com/Cscm53q.png"
 </p>
 
 <blockquote>"Ignite Chapter I: Desafio todo list"</blockquote>
